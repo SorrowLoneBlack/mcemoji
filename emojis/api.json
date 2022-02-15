@@ -1,0 +1,12 @@
+{
+  "api": {
+    "importings": "https://emojicord.teamfruit.net/connect/",
+    "analytics": "https://emojicord.teamfruit.net/api/analytics/"
+  },
+  "emojis": [
+    "http://8.133.183.28:8088/emojis/emojis.min.json"
+  ],
+  "picker": [
+    "http://8.133.183.28:8088/emojis/picker.min.json"
+  ]
+}
